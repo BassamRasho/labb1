@@ -1,0 +1,4 @@
+C:\Users\Bassa\OneDrive\Dokument\Bassam\Bassam\Labb 1\Labb 1\obj\Debug\net6.0\Labb 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bassa\OneDrive\Dokument\Bassam\Bassam\Labb 1\Labb 1\obj\Debug\net6.0\Labb 1.AssemblyInfoInputs.cache
+C:\Users\Bassa\OneDrive\Dokument\Bassam\Bassam\Labb 1\Labb 1\obj\Debug\net6.0\Labb 1.AssemblyInfo.cs
+C:\Users\Bassa\OneDrive\Dokument\Bassam\Bassam\Labb 1\Labb 1\obj\Debug\net6.0\Labb 1.csproj.CoreCompileInputs.cache
